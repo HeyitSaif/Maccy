@@ -4,6 +4,4 @@ Maccy.xcodeproj/project.xcworkspace/xcshareddata
 .DS_Store
 Maccy/.DS_Store
 build/
-temp_auto_push.bat
-temp_interactive_push.bat
 .gitignore
